@@ -28,3 +28,5 @@ This repo contains my materials from The Data Engineering Academy.
 7. Log analysis with Elasticsearch
 8. Snowflake for Data Engineers
 9. dbt for Data Engineers
+
+![cert](https://github.com/ndomah/The-Data-Engineering-Academy/blob/main/certificate-of-completion-for-data-engineering-certification.jpg)
