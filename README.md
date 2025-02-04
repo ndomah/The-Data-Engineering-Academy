@@ -3,6 +3,9 @@ This repo contains my materials from The Data Engineering Academy.
 
 ![Academy Tracks](https://github.com/ndomah/The-Data-Engineering-Academy/blob/main/Academy%20Tracks%20Download.jpg)
 
+## 0. Pre-Bootcamp
+1. [Intro to Data Engineering Notes](https://github.com/ndomah/The-Data-Engineering-Academy/blob/main/Intro%2Bto%2BData%2BEngineering%2BCourse%2BNotes.pdf)
+
 ## 1. [The Basics](https://github.com/ndomah/1.-The-Basics/tree/main)
 1. [Introduction to Data Engineering](https://github.com/ndomah/1.-The-Basics/tree/main/1.%20Introduction%20to%20Data%20Engineering)
 2. [Introduction to Python](https://github.com/ndomah/1.-The-Basics/tree/main/2.%20Introduction%20to%20Python)
