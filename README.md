@@ -30,7 +30,6 @@ This repo contains my materials from The Data Engineering Academy.
 5. [MongoDB Fundamentals](https://github.com/ndomah/3.-Fundamental-Tools/tree/main/5.%20MongoDB%20Fundamentals)
 6. [Log analysis with Elasticsearch](https://github.com/ndomah/3.-Fundamental-Tools/tree/main/6.%20Log%20analysis%20with%20Elasticsearch)
 7. [Snowflake for Data Engineers](https://github.com/ndomah/3.-Fundamental-Tools/tree/main/7.%20Snowflake%20for%20Data%20Engineers)
-8. [dbt for Data Engineers](https://github.com/ndomah/3.-Fundamental-Tools/tree/main/8.%20dbt%20for%20Data%20Engineers)
 
 ## Certificate
 ![cert](https://github.com/ndomah/The-Data-Engineering-Academy/blob/main/certificate-of-completion-for-data-engineering-certification.jpg)
